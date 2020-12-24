@@ -1,0 +1,256 @@
+2020-12-16 20:39:47,997 [main] INFO inetBanking - URL is openned
+2020-12-16 20:39:48,362 [main] INFO inetBanking - Username entered
+2020-12-16 20:39:48,578 [main] INFO inetBanking - Password entered
+2020-12-16 20:41:04,538 [main] INFO inetBanking - URL is Openned
+2020-12-16 20:41:04,919 [main] INFO inetBanking - Username Entered
+2020-12-16 20:41:05,095 [main] INFO inetBanking - Password Entered
+2020-12-16 20:41:07,235 [main] INFO inetBanking - Login is Passed
+2020-12-17 11:45:15,550 [main] INFO inetBanking - URL is Openned
+2020-12-17 12:30:11,529 [main] INFO inetBanking - URL is Openned
+2020-12-17 12:30:12,170 [main] INFO inetBanking - Username Entered
+2020-12-17 12:30:12,486 [main] INFO inetBanking - Password Entered
+2020-12-17 12:30:14,878 [main] INFO inetBanking - Login is Passed
+2020-12-17 12:46:02,193 [main] INFO inetBanking - URL is Openned
+2020-12-17 12:46:02,759 [main] INFO inetBanking - Username Entered
+2020-12-17 12:46:02,926 [main] INFO inetBanking - Password Entered
+2020-12-17 12:46:04,906 [main] INFO inetBanking - Login is Passed
+2020-12-17 20:10:10,441 [main] INFO inetBanking - URL is Openned
+2020-12-17 20:10:12,407 [main] INFO inetBanking - Username Entered
+2020-12-17 20:10:12,607 [main] INFO inetBanking - Password Entered
+2020-12-17 20:10:16,265 [main] INFO inetBanking - Login is Passed
+2020-12-17 20:13:38,670 [main] INFO inetBanking - URL is Openned
+2020-12-17 20:13:38,857 [main] INFO inetBanking - Username Entered
+2020-12-17 20:13:38,933 [main] INFO inetBanking - Password Entered
+2020-12-17 20:13:43,859 [main] INFO inetBanking - Login is Passed
+2020-12-17 20:27:44,581 [main] INFO inetBanking - URL is Openned
+2020-12-17 20:27:44,993 [main] INFO inetBanking - Username Entered
+2020-12-17 20:27:45,069 [main] INFO inetBanking - Password Entered
+2020-12-17 22:05:16,444 [main] INFO inetBanking - URL is Openned
+2020-12-17 22:05:21,980 [main] INFO inetBanking - Username Entered
+2020-12-17 22:05:22,402 [main] INFO inetBanking - Password Entered
+2020-12-17 22:05:24,944 [main] INFO inetBanking - Login is Passed
+2020-12-17 22:09:38,951 [main] INFO inetBanking - URL is Openned
+2020-12-17 22:09:39,382 [main] INFO inetBanking - Username Entered
+2020-12-17 22:09:39,534 [main] INFO inetBanking - Password Entered
+2020-12-17 22:56:19,468 [main] INFO inetBanking - URL is Openned
+2020-12-17 22:56:20,212 [main] INFO inetBanking - Username Entered
+2020-12-17 22:56:20,375 [main] INFO inetBanking - Password Entered
+2020-12-17 22:56:25,428 [main] INFO inetBanking - Login is Passed
+2020-12-17 22:57:31,341 [main] INFO inetBanking - URL is Openned
+2020-12-17 22:57:31,734 [main] INFO inetBanking - Username Entered
+2020-12-17 22:57:31,935 [main] INFO inetBanking - Password Entered
+2020-12-17 22:57:34,401 [main] INFO inetBanking - Login is Passed
+2020-12-17 22:58:44,058 [main] INFO inetBanking - URL is Openned
+2020-12-17 22:58:44,352 [main] INFO inetBanking - Username Entered
+2020-12-17 22:58:44,472 [main] INFO inetBanking - Password Entered
+2020-12-17 22:58:47,046 [main] INFO inetBanking - Login is Passed
+2020-12-21 20:48:52,081 [main] INFO inetBanking - URL is Openned
+2020-12-21 20:48:53,471 [main] INFO inetBanking - Username Entered
+2020-12-21 20:48:53,631 [main] INFO inetBanking - Password Entered
+2020-12-21 20:54:52,499 [main] INFO inetBanking - URL is Openned
+2020-12-21 20:54:53,827 [main] INFO inetBanking - Username Entered
+2020-12-21 20:54:54,052 [main] INFO inetBanking - Password Entered
+2020-12-22 11:32:54,974 [main] INFO inetBanking - User Name provided
+2020-12-22 11:32:56,256 [main] INFO inetBanking - Password provided
+2020-12-22 11:33:08,592 [main] INFO inetBanking - User Name provided
+2020-12-22 11:33:08,733 [main] INFO inetBanking - Password provided
+2020-12-22 11:33:14,605 [main] INFO inetBanking - Login passed
+2020-12-22 11:33:22,172 [main] INFO inetBanking - User Name provided
+2020-12-22 11:33:22,302 [main] INFO inetBanking - Password provided
+2020-12-22 11:33:29,768 [main] INFO inetBanking - User Name provided
+2020-12-22 11:33:29,904 [main] INFO inetBanking - Password provided
+2020-12-22 11:33:33,379 [main] INFO inetBanking - Login passed
+2020-12-22 11:46:44,206 [main] INFO inetBanking - User Name provided
+2020-12-22 11:46:45,309 [main] INFO inetBanking - Password provided
+2020-12-22 11:46:56,704 [main] INFO inetBanking - User Name provided
+2020-12-22 11:46:56,835 [main] INFO inetBanking - Password provided
+2020-12-22 11:47:02,623 [main] INFO inetBanking - Login passed
+2020-12-22 11:47:10,191 [main] INFO inetBanking - User Name provided
+2020-12-22 11:47:10,318 [main] INFO inetBanking - Password provided
+2020-12-22 11:47:17,403 [main] INFO inetBanking - User Name provided
+2020-12-22 11:47:17,523 [main] INFO inetBanking - Password provided
+2020-12-22 11:47:23,028 [main] INFO inetBanking - Login passed
+2020-12-22 11:59:27,277 [main] INFO inetBanking - User Name provided
+2020-12-22 11:59:27,473 [main] INFO inetBanking - Password provided
+2020-12-22 11:59:35,839 [main] INFO inetBanking - User Name provided
+2020-12-22 11:59:35,983 [main] INFO inetBanking - Password provided
+2020-12-22 11:59:41,352 [main] INFO inetBanking - Login passed
+2020-12-22 11:59:48,234 [main] INFO inetBanking - User Name provided
+2020-12-22 11:59:48,377 [main] INFO inetBanking - Password provided
+2020-12-22 11:59:54,673 [main] INFO inetBanking - User Name provided
+2020-12-22 11:59:54,813 [main] INFO inetBanking - Password provided
+2020-12-22 12:00:00,054 [main] INFO inetBanking - Login passed
+2020-12-22 12:03:40,385 [main] INFO inetBanking - User Name provided
+2020-12-22 12:03:44,799 [main] INFO inetBanking - Password provided
+2020-12-22 12:03:52,405 [main] INFO inetBanking - User Name provided
+2020-12-22 12:03:52,550 [main] INFO inetBanking - Password provided
+2020-12-22 12:03:57,576 [main] INFO inetBanking - Login passed
+2020-12-22 12:04:04,978 [main] INFO inetBanking - User Name provided
+2020-12-22 12:04:05,137 [main] INFO inetBanking - Password provided
+2020-12-22 12:04:11,261 [main] INFO inetBanking - User Name provided
+2020-12-22 12:04:11,378 [main] INFO inetBanking - Password provided
+2020-12-22 12:04:15,649 [main] INFO inetBanking - Login passed
+2020-12-22 12:10:21,512 [main] INFO inetBanking - User Name provided
+2020-12-22 12:10:21,677 [main] INFO inetBanking - Password provided
+2020-12-22 12:10:28,521 [main] INFO inetBanking - User Name provided
+2020-12-22 12:10:28,705 [main] INFO inetBanking - Password provided
+2020-12-22 12:10:33,793 [main] INFO inetBanking - Login passed
+2020-12-22 12:10:40,208 [main] INFO inetBanking - User Name provided
+2020-12-22 12:10:40,318 [main] INFO inetBanking - Password provided
+2020-12-22 12:10:45,899 [main] INFO inetBanking - User Name provided
+2020-12-22 12:10:46,015 [main] INFO inetBanking - Password provided
+2020-12-22 12:10:50,478 [main] INFO inetBanking - Login passed
+2020-12-22 12:18:54,441 [main] INFO inetBanking - User Name provided
+2020-12-22 12:18:55,656 [main] INFO inetBanking - Password provided
+2020-12-22 12:19:03,939 [main] INFO inetBanking - User Name provided
+2020-12-22 12:19:04,089 [main] INFO inetBanking - Password provided
+2020-12-22 12:19:09,895 [main] INFO inetBanking - Login passed
+2020-12-22 12:19:15,770 [main] INFO inetBanking - User Name provided
+2020-12-22 12:19:15,893 [main] INFO inetBanking - Password provided
+2020-12-22 12:19:21,145 [main] INFO inetBanking - User Name provided
+2020-12-22 12:19:21,257 [main] INFO inetBanking - Password provided
+2020-12-22 12:19:26,030 [main] INFO inetBanking - Login passed
+2020-12-22 12:36:52,790 [main] INFO inetBanking - User Name provided
+2020-12-22 12:36:53,270 [main] INFO inetBanking - Password provided
+2020-12-22 12:37:02,029 [main] INFO inetBanking - User Name provided
+2020-12-22 12:37:02,500 [main] INFO inetBanking - Password provided
+2020-12-22 12:37:09,374 [main] INFO inetBanking - Login passed
+2020-12-22 12:37:15,619 [main] INFO inetBanking - User Name provided
+2020-12-22 12:37:15,776 [main] INFO inetBanking - Password provided
+2020-12-22 12:37:22,007 [main] INFO inetBanking - User Name provided
+2020-12-22 12:37:22,134 [main] INFO inetBanking - Password provided
+2020-12-22 12:37:27,091 [main] INFO inetBanking - Login passed
+2020-12-22 22:34:01,520 [main] INFO inetBanking - Username is provided
+2020-12-22 22:34:01,955 [main] INFO inetBanking - Password is provided
+2020-12-22 22:36:48,414 [main] INFO inetBanking - Username is provided
+2020-12-22 22:36:48,682 [main] INFO inetBanking - Password is provided
+2020-12-22 22:39:43,565 [main] INFO inetBanking - Username is provided
+2020-12-22 22:39:43,775 [main] INFO inetBanking - Password is provided
+2020-12-22 22:41:45,758 [main] INFO inetBanking - Username is provided
+2020-12-22 22:41:45,963 [main] INFO inetBanking - Password is provided
+2020-12-22 22:41:49,400 [main] INFO inetBanking - Customer details....
+2020-12-22 22:41:59,709 [main] INFO inetBanking - Validation started...
+2020-12-22 22:44:15,671 [main] INFO inetBanking - Username is provided
+2020-12-22 22:44:15,927 [main] INFO inetBanking - Password is provided
+2020-12-22 22:44:18,036 [main] INFO inetBanking - Customer details....
+2020-12-22 22:44:26,031 [main] INFO inetBanking - Validation started...
+2020-12-22 22:45:21,442 [main] INFO inetBanking - Username is provided
+2020-12-22 22:45:21,659 [main] INFO inetBanking - Password is provided
+2020-12-22 22:45:24,900 [main] INFO inetBanking - Customer details....
+2020-12-22 22:45:33,549 [main] INFO inetBanking - Validation started...
+2020-12-22 22:47:18,217 [main] INFO inetBanking - Username is provided
+2020-12-22 22:47:18,414 [main] INFO inetBanking - Password is provided
+2020-12-22 22:47:21,039 [main] INFO inetBanking - Customer details....
+2020-12-22 22:47:34,069 [main] INFO inetBanking - Validation started...
+2020-12-22 22:47:34,238 [main] INFO inetBanking - Testcase passed
+2020-12-22 22:50:33,102 [main] INFO inetBanking - Username is provided
+2020-12-22 22:50:33,289 [main] INFO inetBanking - Password is provided
+2020-12-22 22:50:45,399 [main] INFO inetBanking - Customer details....
+2020-12-22 22:50:55,939 [main] INFO inetBanking - Validation started...
+2020-12-22 22:50:59,103 [main] INFO inetBanking - Testcase passed
+2020-12-22 22:52:09,541 [main] INFO inetBanking - Username is provided
+2020-12-22 22:52:09,768 [main] INFO inetBanking - Password is provided
+2020-12-22 22:52:12,947 [main] INFO inetBanking - Customer details....
+2020-12-22 22:52:23,866 [main] INFO inetBanking - Validation started...
+2020-12-22 22:52:24,344 [main] INFO inetBanking - Testcase passed
+2020-12-22 22:53:09,660 [main] INFO inetBanking - Username is provided
+2020-12-22 22:53:09,882 [main] INFO inetBanking - Password is provided
+2020-12-22 22:53:15,445 [main] INFO inetBanking - Customer details....
+2020-12-22 22:53:27,636 [main] INFO inetBanking - Validation started...
+2020-12-22 22:53:28,448 [main] INFO inetBanking - Testcase passed
+2020-12-22 22:54:58,439 [main] INFO inetBanking - Username is provided
+2020-12-22 22:54:58,637 [main] INFO inetBanking - Password is provided
+2020-12-22 22:55:09,474 [main] INFO inetBanking - Customer details....
+2020-12-22 22:55:22,488 [main] INFO inetBanking - Validation started...
+2020-12-22 22:59:05,772 [main] INFO inetBanking - Username is provided
+2020-12-22 22:59:05,952 [main] INFO inetBanking - Password is provided
+2020-12-22 22:59:09,013 [main] INFO inetBanking - Customer details....
+2020-12-22 22:59:19,433 [main] INFO inetBanking - Validation started...
+2020-12-24 12:12:56,632 [main] INFO inetBanking - Username is provided
+2020-12-24 12:12:57,643 [main] INFO inetBanking - Password is provided
+2020-12-24 12:13:02,849 [main] INFO inetBanking - Customer details....
+2020-12-24 12:13:12,264 [main] INFO inetBanking - Validation started...
+2020-12-24 12:16:45,241 [main] INFO inetBanking - URL is Openned
+2020-12-24 12:16:45,667 [main] INFO inetBanking - Username Entered
+2020-12-24 12:16:45,859 [main] INFO inetBanking - Password Entered
+2020-12-24 12:16:48,103 [main] INFO inetBanking - Login is Passed
+2020-12-24 12:17:01,756 [main] INFO inetBanking - User Name provided
+2020-12-24 12:17:01,998 [main] INFO inetBanking - Password provided
+2020-12-24 12:17:09,079 [main] INFO inetBanking - User Name provided
+2020-12-24 12:17:09,319 [main] INFO inetBanking - Password provided
+2020-12-24 12:17:14,602 [main] INFO inetBanking - Login passed
+2020-12-24 12:17:20,236 [main] INFO inetBanking - User Name provided
+2020-12-24 12:17:20,366 [main] INFO inetBanking - Password provided
+2020-12-24 12:17:26,344 [main] INFO inetBanking - Login passed
+2020-12-24 12:17:36,535 [main] INFO inetBanking - User Name provided
+2020-12-24 12:17:36,715 [main] INFO inetBanking - Password provided
+2020-12-24 12:17:41,847 [main] INFO inetBanking - Login passed
+2020-12-24 12:17:57,643 [main] INFO inetBanking - Username is provided
+2020-12-24 12:17:57,768 [main] INFO inetBanking - Password is provided
+2020-12-24 12:18:00,032 [main] INFO inetBanking - Customer details....
+2020-12-24 12:25:27,310 [main] INFO inetBanking - Username is provided
+2020-12-24 12:25:27,509 [main] INFO inetBanking - Password is provided
+2020-12-24 12:25:29,901 [main] INFO inetBanking - Customer details....
+2020-12-24 12:25:42,744 [main] INFO inetBanking - Validation started...
+2020-12-24 12:25:42,808 [main] INFO inetBanking - Testcase passed
+2020-12-24 12:26:21,777 [main] INFO inetBanking - Username is provided
+2020-12-24 12:26:21,979 [main] INFO inetBanking - Password is provided
+2020-12-24 12:26:25,008 [main] INFO inetBanking - Customer details....
+2020-12-24 12:26:34,806 [main] INFO inetBanking - Validation started...
+2020-12-24 12:26:34,881 [main] INFO inetBanking - Testcase passed
+2020-12-24 12:27:31,710 [main] INFO inetBanking - URL is Openned
+2020-12-24 12:27:32,384 [main] INFO inetBanking - Username Entered
+2020-12-24 12:27:32,620 [main] INFO inetBanking - Password Entered
+2020-12-24 12:27:34,659 [main] INFO inetBanking - Login is Passed
+2020-12-24 12:27:47,377 [main] INFO inetBanking - User Name provided
+2020-12-24 12:27:47,545 [main] INFO inetBanking - Password provided
+2020-12-24 12:27:54,053 [main] INFO inetBanking - User Name provided
+2020-12-24 12:27:54,196 [main] INFO inetBanking - Password provided
+2020-12-24 12:28:00,094 [main] INFO inetBanking - Login passed
+2020-12-24 12:28:08,848 [main] INFO inetBanking - User Name provided
+2020-12-24 12:28:08,995 [main] INFO inetBanking - Password provided
+2020-12-24 12:28:15,575 [main] INFO inetBanking - User Name provided
+2020-12-24 12:28:15,802 [main] INFO inetBanking - Password provided
+2020-12-24 12:28:20,550 [main] INFO inetBanking - Login passed
+2020-12-24 12:28:34,122 [main] INFO inetBanking - Username is provided
+2020-12-24 12:28:34,316 [main] INFO inetBanking - Password is provided
+2020-12-24 12:28:39,288 [main] INFO inetBanking - Customer details....
+2020-12-24 12:28:49,705 [main] INFO inetBanking - Validation started...
+2020-12-24 12:28:49,769 [main] INFO inetBanking - Testcase passed
+2020-12-24 12:30:26,707 [main] INFO inetBanking - URL is Openned
+2020-12-24 12:30:27,421 [main] INFO inetBanking - Username Entered
+2020-12-24 12:30:29,389 [main] INFO inetBanking - Password Entered
+2020-12-24 12:30:31,683 [main] INFO inetBanking - Login is Passed
+2020-12-24 12:30:46,148 [main] INFO inetBanking - User Name provided
+2020-12-24 12:30:46,277 [main] INFO inetBanking - Password provided
+2020-12-24 12:30:53,046 [main] INFO inetBanking - User Name provided
+2020-12-24 12:30:53,228 [main] INFO inetBanking - Password provided
+2020-12-24 12:30:59,401 [main] INFO inetBanking - Login passed
+2020-12-24 12:31:06,969 [main] INFO inetBanking - User Name provided
+2020-12-24 12:31:07,109 [main] INFO inetBanking - Password provided
+2020-12-24 12:31:10,643 [main] INFO inetBanking - Login passed
+2020-12-24 12:31:20,915 [main] INFO inetBanking - User Name provided
+2020-12-24 12:31:21,049 [main] INFO inetBanking - Password provided
+2020-12-24 12:31:26,146 [main] INFO inetBanking - Login passed
+2020-12-24 12:31:40,476 [main] INFO inetBanking - Username is provided
+2020-12-24 12:31:40,633 [main] INFO inetBanking - Password is provided
+2020-12-24 12:31:44,974 [main] INFO inetBanking - Customer details....
+2020-12-24 12:33:28,668 [main] INFO inetBanking - URL is Openned
+2020-12-24 12:33:29,168 [main] INFO inetBanking - Username Entered
+2020-12-24 12:33:29,330 [main] INFO inetBanking - Password Entered
+2020-12-24 12:33:31,255 [main] INFO inetBanking - Login is Passed
+2020-12-24 12:33:43,686 [main] INFO inetBanking - User Name provided
+2020-12-24 12:33:44,014 [main] INFO inetBanking - Password provided
+2020-12-24 12:33:51,429 [main] INFO inetBanking - User Name provided
+2020-12-24 12:33:51,587 [main] INFO inetBanking - Password provided
+2020-12-24 12:33:57,125 [main] INFO inetBanking - Login passed
+2020-12-24 12:34:03,348 [main] INFO inetBanking - User Name provided
+2020-12-24 12:34:03,472 [main] INFO inetBanking - Password provided
+2020-12-24 12:34:08,996 [main] INFO inetBanking - User Name provided
+2020-12-24 12:34:09,139 [main] INFO inetBanking - Password provided
+2020-12-24 12:34:14,146 [main] INFO inetBanking - Login passed
+2020-12-24 12:34:29,143 [main] INFO inetBanking - Username is provided
+2020-12-24 12:34:29,348 [main] INFO inetBanking - Password is provided
+2020-12-24 12:34:32,263 [main] INFO inetBanking - Customer details....
+2020-12-24 12:34:42,834 [main] INFO inetBanking - Validation started...
+2020-12-24 12:34:42,896 [main] INFO inetBanking - Testcase passed
